@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below and this software."
+title: "Semi-miscible CO2-brine flow in stratified formations: analytical solution and upscaling code"
+type: software
+authors:
+  - family-names: Youssef
+    given-names: AbdAllah A.
+    affiliation: "Centre for Integrative Petroleum Research, King Fahd University of Petroleum & Minerals"
+  - family-names: El-Husseiny
+    given-names: Ammar
+    affiliation: "King Fahd University of Petroleum & Minerals"
+license: MIT
+version: 1.0.0
+# Add after archiving on Zenodo:
+# doi: 10.5281/zenodo.XXXXXXX
+repository-code: https://github.com/Abdallahyoussef/semi-miscible-layered-upscaling
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Youssef
+      given-names: AbdAllah A.
+    - family-names: El-Husseiny
+      given-names: Ammar
+  title: "Semi-Miscible CO2-Brine Flow in Stratified Formations: An Analytical Framework for Upscaled Relative Permeability and Dissolved-Flux Correction"
+  journal: "Advances in Water Resources"
+  year: 2026
+  # doi: add on publication

@@ -1,0 +1,18 @@
+# MATLAB outputs and autosaves
+*.mat
+*.fig
+*.asv
+*.m~
+*.mex*
+slprj/
+# Figures and office files generated during analysis
+*.tif
+*.tiff
+*.png
+*.pptx
+# IDE / OS
+.idea/
+.vscode/
+Thumbs.db
+desktop.ini
+.DS_Store
